@@ -178,13 +178,11 @@ ul {
   background-repeat: no-repeat;
 }
 .sec4-bg {
-  background: url(images/bg/sec4_bg.jpg);
   background-size: 100%;
   background-repeat: no-repeat;
   background-position: bottom left;
 }
 .sec4-right-bg {
-  background: url(images/bg/sec4_right_bg.jpg);
   background-size: 100%;
   background-repeat: no-repeat;
   background-position: bottom right;
@@ -202,40 +200,17 @@ ul {
   background-position: center center;
 }
 .bg1 {
-  background-image: url(images/bg/bg1.jpg);
 }
 .bg2 {
-  background-image: url(images/bg/bg2.jpg);
   background-size: cover;
 }
 .bg3 {
-  background-image: url(img/ship.jpg);
+  background-image: url(./img/ship.jpg);
 }
-.bg4 {
-  background-image: url(images/bg/bg4.jpg);
-}
-.bg5 {
-  background-image: url(images/bg/bg5.jpg);
-}
-.bg7 {
-  background-image: url(images/bg/bg5.jpg);
-}
-.bg8 {
-  background-image: url(images/bg/bg8.jpg);
-}
-.bg9 {
-  background-image: url(images/bg/bg9.jpg);
-}
-.bg10 {
-  background-image: url(images/bg/bg10.jpg);
-}
-.bg6 {
-  background-image: url(images/bg/bg6.jpg);
-  background-size: cover;
-  background-position: center center;
-}
+
+
 .bg11 {
-  background-image: url(img/water.jpg);
+  background-image: url(./img/water.jpg);
   background-size: cover;
   background-position: center center;
 }
@@ -244,13 +219,11 @@ ul {
   margin: 0 auto;
 }
 .section-bg {
-  background-image: url(images/bg/testi_full_bg.png);
   background-position: top center;
   background-size: 100%;
   background-repeat: no-repeat;
 }
 .content-wrapper {
-  background-image: url(images/bg/test_wraper_bg.png);
   background-repeat: repeat;
 }
 .bg-unset {
@@ -1719,7 +1692,6 @@ body .modal-backdrop {
   left: 1px;
   width: 100%;
   height: 100%;
-  background: url(images/bg/servie-bg.jpg);
   background-size: 100%;
   background-repeat: no-repeat;
   background-position: right bottom;
@@ -1831,7 +1803,6 @@ body .modal-backdrop {
   text-align: center;
   border-radius: 0 0 4px 4px;
   padding: 22px 10px 20px;
-  background-image: url(images/bg/test_wraper_bg.png);
   background-repeat: repeat;
 }
 .rs-team-slider.rs-team-slider2 .image-bg h4 {
@@ -2134,7 +2105,6 @@ body .modal-backdrop {
   margin: 0 0 7px;
 }
 .testimonia-section .slider-for.content-bg {
-  background: url(images/bg/testi_bg.png);
   background-repeat-x: repeat;
   position: relative;
   z-index: 11;
@@ -2561,7 +2531,6 @@ body .modal-backdrop {
   z-index: 1;
 }
 .rs-blog .blog-wrapper {
-  background-image: url(images/bg/test_wraper_bg.png);
   background-repeat: repeat;
   height: 265px;
   position: absolute;
@@ -3120,7 +3089,6 @@ ul.icon-list i {
   position: relative;
 }
 .counter-style-two.counterup-item-bg .content-wrapper {
-  background-image: url(images/bg/test_wraper_bg.png);
   background-repeat: repeat;
   height: 180px;
   position: absolute;
@@ -3129,7 +3097,6 @@ ul.icon-list i {
   width: 100%;
 }
 .counter-style-two.counterup-item-bg .rs-counter-list {
-  background-image: url(images/bg/test_wraper_bg.png);
   background-repeat: repeat;
 }
 .counter-style-two.transparent-background .rs-counter-list {
@@ -3337,12 +3304,10 @@ ul.icon-list i {
   margin-bottom: 30px;
   padding: 51px 30px 50px;
   transition: all 0.3s ease 0s;
-  background-image: url(images/bg/test_wraper_bg.png);
   background-repeat: repeat;
   position: relative;
 }
 .rs-our-practice3 .content-details:after {
-  background: url(images/bg/practice-item-bg.png);
   position: absolute;
   top: 50%;
   left: 50%;
@@ -3420,7 +3385,6 @@ ul.icon-list i {
   top: 0;
   height: 100%;
   width: 67px;
-  background: url(images/bg/case-result-bg.png);
   z-index: 10;
 }
 .rs-case-result .case-content {
@@ -3490,13 +3454,13 @@ ul.icon-list i {
   background-size: cover;
 }
 .rs-case-result-pages .image-one {
-  background-image: url('img/logistics.jpg');
+  background-image: url('./img/logistics.jpg');
 }
 .rs-case-result-pages .image-two {
-  background-image: url('img/advertising.jpg');
+  background-image: url('./img/advertising.jpg');
 }
 .rs-case-result-pages .image-three {
-  background-image: url('img/marketing.jpg');
+  background-image: url('./img/marketing.jpg');
 }
 .rs-case-result-pages .case-item {
   background: #333333;
@@ -3879,7 +3843,6 @@ ul.icon-list i {
   height: 12px;
 }
 .rs-skills .skill-area .progress .progress-bar {
-  background: url(images/bg/progress-bg.png);
   background-repeat-x: repeat;
   border-radius: 3px;
 }
@@ -4155,7 +4118,7 @@ ul.icon-list i {
     29. Footer CSS
 --------------------------*/
 .rs-footer {
-  background-image: url(img/whychooseus.jpg);
+  background-image: url(./img/whychooseus.jpg);
   opacity: 1.5;
   background-size: cover;
   background-position: center center;
@@ -4362,7 +4325,6 @@ div#rs-partner .partner-item img {
   background: #222222;
 }
 .rs-defult-partner {
-  background: url(images/bg/client_bg.png);
   background-repeat-x: repeat;
   position: relative;
 }
@@ -4376,7 +4338,6 @@ div#rs-partner .partner-item img {
     30. Error 404 CSS 
 --------------------------------------*/
 .rs-page-error {
-  background: url(images/error.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   padding: 127px 0 145px 0;
